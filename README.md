@@ -21,11 +21,11 @@ This project aims to create a Streamlit application that allows users to access 
 
 ## Usage
 
-1. Input a YouTube channel ID to retrieve and display channel data.
-2. Use the provided button to collect and store data for multiple YouTube channels.
+1. Input a YouTube channel ID to retrieve channel data.
+2. Use the provided button to collect and store data of the channel.
 3. Select a channel and migrate its data from the MongoDB data lake to the SQL database.
 4. Utilize the search options in the SQL database to query and retrieve specific data.
-5. The Streamlit app will display data using charts and graphs, aiding analysis.
+5. The Streamlit app will display data.
 
 ## Contributions
 
